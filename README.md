@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @ChristinaEmbers, born 1992 
-- 👀 I’m interested in making the world a little bit better by improving myself and the world for those around me. 
-- 🌱 I’m currently learning how be an amazing instructor for my future apprentices
-- 💞️ I’m looking to collaborate on nothing right now, as my schedule is very busy. But any learning projects to develop new skills and improve existing skills are welcome. 
-- 📫 How to reach me: Just leave me a mail at christina.embers@gmail.com
-- 😄 Pronouns: She, born female and I have not decided otherwise.
-- ⚡ Fun fact: Never been to a dance club. 
+👋 Willkommen auf meinem Profil! | Welcome to my Profile!
+Über mich | About Me
 
-<!---
-ChristinaEmbers/ChristinaEmbers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👩‍💻 Softwareentwicklerin mit Fokus auf Java & Backend-Technologien
+🎯 Mein Ziel: Sauberen, gut strukturierten und verständlichen Code schreiben – und dabei stetig lernen und mich weiterentwickeln.
+📚 Aktuell lerne ich: Vorbereitung auf die IHK-Ausbildereignungsprüfung & Vertiefung in Java und Spring.
+Fähigkeiten & Technologien | Skills & Technologies
+
+    Programmiersprachen: Java, SQL
+    Frameworks & Tools: Spring Boot, IntelliJ, Eclipse, Git
+    Methoden: Grundlagen der agilen Softwareentwicklung (Scrum, Kanban)
+
+Was mich auszeichnet | What Makes Me Stand Out
+
+✅ Praxis in der Softwareentwicklung: Erfahrung in der agilen Entwicklung mit Java & Spring.
+✅ Lernbereitschaft: Ich eigne mir kontinuierlich neues Wissen an und setze es in eigenen Projekten um.
+✅ Ausbilderqualifikation: Ich bereite mich auf die IHK-Ausbildereignungsprüfung vor, um später Wissen weiterzugeben.
+Kontakt | Get in Touch
+
+📬 E-Mail: christina.embers@gmail.com
+🌐 Xing: [[Profil-Link hier](https://www.xing.com/profile/Christina_Embers)]
+📌 GitHub-Projekte: Siehe meine öffentlichen Repositories für Arbeitsproben.
+English Version
+
+👩‍💻 Software Developer with a focus on Java & Backend Technologies
+🎯 Goal: Writing clean, well-structured, and understandable code while continuously learning and improving.
+📚 Currently learning: Preparing for the IHK instructor certification & deepening my Java and Spring knowledge.
+Skills & Technologies
+
+    Programming Languages: Java, SQL
+    Frameworks & Tools: Spring Boot, IntelliJ, Eclipse, Git
+    Development Methods: Basic knowledge of Agile Development (Scrum, Kanban)
+
+What Makes Me Stand Out
+
+✅ Experience in Software Development: Practical experience with Java & Spring in an agile environment.
+✅ Curiosity & Growth Mindset: Constantly learning and applying new skills to projects.
+✅ Future Instructor: Preparing for the IHK instructor certification to pass on technical knowledge in the future.
+Contact
+
+📬 Email: christina.embers@gmail.com
+🌐 Xing: [[Your profile link](https://www.xing.com/profile/Christina_Embers)]
+📌 GitHub Projects: Check out my public repositories for examples of my work.
