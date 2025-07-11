@@ -1,31 +1,67 @@
-<h1>👋 Willkommen auf meinem Profil! | Welcome to my Profile! </h1>
+# 👋 Hi, ich bin Christina
 
-<h2> Alle Informationen zu mir auf deutsch</h2>
+**Java-Entwicklerin mit Leidenschaft für kontinuirliche Verbesserungen und nachhaltige Lösungen**
 
-👩‍💻 Softwareentwicklerin mit Fokus auf Java & Backend-Technologien
+🎯 **Aktuell suche ich:** Teilzeit- oder Vollzeitstelle als Java-Entwicklerin oder im IT-Support  
+🏢 **Mein Wunsch:** Ein Umfeld mit strukturierter Einarbeitung, Wertschätzung und sinnvoller Zusammenarbeit  
+🚀 **Derzeit arbeite ich an:** PrepareToParty einem Java Projekt mit JavaFX UI zur Vertiefung meiner Skills  
 
-💡 Ich suche derzeit eine Teilzeit- oder Vollzeitstelle im Bereich Java-Entwicklung oder IT-Support, gerne in einem Umfeld mit guter Einarbeitung, Wertschätzung und sinnvoller Zusammenarbeit.
+---
 
-📚 Aktuell vertiefe ich Java und JavaFX, indem ich an eigenen Hobbyprojekten arbeite.
+## 🛠️ Tech Stack
 
-Fähigkeiten & Technologien | Skills & Technologies
+**Programmierung:**
+- Java (Schwerpunkt) • Spring Boot • SQL
+- C# (Fortgeschritten) • HTML/CSS (Grundlagen)
 
-    Programmiersprachen: Java, SQL
-    Frameworks & Tools: Spring Boot, IntelliJ, Eclipse, Git
-    Methoden: Grundlagen der agilen Softwareentwicklung (Scrum, Kanban)
-    Soft Skills: Empathie, Teamfähigkeit, Kommunikationsstärke, Lernbereitschaft
+**Tools & Methoden:**
+- IntelliJ IDEA • Eclipse • Git • Maven
+- Jira • Confluence
+- Scrum • Kanban • Wasserfall
 
-Was mich auszeichnet
+**Soft Skills:**
+- Ausbilderqualifikation (IHK) • Wissensvermittlung
+- Strukturierte Arbeitsweise • Kommunikationsstärke
+- Hohe Lernbereitschaft • Teamfähigkeit • Empathie
 
-✅ Praxis in der Softwareentwicklung – mit Java, Spring und agilen Methoden
-✅ Menschenorientierung & Systemverständnis – ich helfe gerne, IT verständlich und anwenderfreundlich zu machen
-✅ Ausbilderqualifikation (IHK) – ich gebe Wissen gerne weiter und begleite Lernprozesse
-✅ Lernfreude & Eigeninitiative – ich entwickle eigene Projekte und bilde mich weiter, zudem bringe ich mich gerne mit meinen Ideen konstruktiv ein
+---
 
-Kontakt | Get in Touch
+## 💼 Berufserfahrung
 
-📬 E-Mail: christina.embers@gmail.com
+**🎓 Qualifikationen:**
+- Bachelor Angewandte Informatik
+- Abgeschlossene Ausbildung + Ausbilderschein
+- 15 Monate Berufserfahrung als IT-Consultant
 
-🌐 Xing: [[Profil-Link hier](https://www.xing.com/profile/Christina_Embers)]
+**🏆 Aktuelle Erfolge:**
+- Aktive Weiterentwicklung durch eigene Projekte
+- Abschluss der Ausbildereignungsprüfung bei der IHK Bochum
+- Java-Kurs mit 100/100 Punkten abgeschlossen
 
-📌 GitHub-Projekte: Siehe meine öffentlichen Repositories für Arbeitsproben.
+
+---
+
+## 🌟 Was mich auszeichnet
+
+✅ **Praxiserfahrung** – 15 Monate in der Java-Entwicklung mit Spring und agilen Methoden  
+✅ **Menschenorientierung** – IT verständlich und anwenderfreundlich gestalten  
+✅ **Ausbilderqualifikation** – Wissen vermitteln und Lernprozesse begleiten  
+✅ **Kontinuierliche Weiterentwicklung** – eigene Projekte und aktive Weiterbildung  
+
+---
+
+## 🔍 Aktuelles Projekt
+
+**🎯 [PrepareToParty]** - Java-Anwendung mit JavaFX  
+*Direkt hier auf meinem Github Repository einsehbar*
+
+---
+
+## 📫 Kontakt
+
+💌 **Email:** christina.embers@gmail.com
+💼 **XING:** [[Link zu deinem XING-Profil]  ](https://www.xing.com/profile/Christina_Embers)
+
+---
+
+*"Ich suche ein Umfeld, in dem ich meine Java-Expertise einbringen und gleichzeitig durch sinnvolle Projekte Menschen helfen kann. Lassen Sie uns gemeinsam nachhaltige Lösungen entwickeln!"*
