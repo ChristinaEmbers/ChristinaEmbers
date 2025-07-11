@@ -60,7 +60,7 @@
 ## 📫 Kontakt
 
 💌 **Email:** christina.embers@gmail.com
-💼 **XING:** [[Link zu deinem XING-Profil]  ](https://www.xing.com/profile/Christina_Embers)
+💼 **XING:** https://www.xing.com/profile/Christina_Embers
 
 ---
 
